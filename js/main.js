@@ -74,4 +74,3 @@ function atualizaEstatisticas(peca, operacao) {
 
 
 
-
